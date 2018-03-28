@@ -1,0 +1,217 @@
+body {
+    /* padding-top: 60px; */
+    padding-left: 30px;
+    /* background: #01153b; */
+    /* background: url(../img/bg3.png) no-repeat; */
+    /* background-size: 1600px; */
+    background: url(../img/bg2.png);
+    background-size: 100%;
+}
+
+#main {
+    background-color: rgba(6, 9, 14, 0.6);
+}
+
+.col-lg-2,
+.col-md-2,
+.col-sm-2,
+.col-xs-2 {
+    margin: 0 -10px;
+}
+
+.col-lg-4,
+.col-md-4,
+.col-sm-4,
+.col-xs-4 {
+    margin: 10px -10px 0 -10px;
+}
+
+.wrapper8 .col-lg-4,
+.wrapper8 .col-md-4,
+.wrapper8 .col-sm-4,
+.wrapper8 .col-xs-4 {
+    margin: 0;
+}
+
+.col-lg-3,
+.col-md-3,
+.col-sm-3,
+.col-xs-3 {
+    margin: 10px -10px 0 -10px;
+}
+
+.col-lg-5,
+.col-md-5,
+.col-sm-5,
+.col-xs-5 {
+    margin: 10px -10px 0 -10px;
+}
+
+.wrapper {
+    margin-right: 15px;
+    font-size: 30px;
+    text-align: center;
+    color: #a3b3bf;
+    box-shadow: 0 0 8px #3572e4;
+    margin-bottom: 10px;
+}
+
+.wrapper1 {
+    height: 240px;
+}
+.wrapper2 {
+    height: 110px;
+}
+.wrapper3 {
+    height: 104px;
+    padding-left: 50px;
+}
+
+.wrapper3 {
+    padding: 10px 0;
+}
+
+.wrapper4 {
+    font-size: 14px;
+    padding-left: 30px;
+}
+
+.wrapper4 {
+    height: 180px;
+}
+
+.wrapper6 {
+    height: 118px;
+}
+
+.wrapper4,
+.wrapper6,
+.wrapper8 {
+    margin-bottom: 10px;
+}
+
+.wrapper5 {
+    height: 20px;
+}
+
+.wrapper7 {
+    height: 278px;
+}
+
+.wrapper8 {
+    padding: 10px;
+    height: 228px;
+}
+
+.wrapper9 {
+    padding: 10px;
+    padding-left: 20px;
+    height: 168px;
+}
+
+.wrapper10 {
+    padding: 0 10px;
+    height: 318px;
+}
+
+.wrapper11,
+.wrapper12 {
+    padding: 10px;
+    height: 318px;
+}
+.wrapper13 {
+    height: 116px;
+    font-size: 20px;
+}
+#QV01,
+#QV02,
+#QV03,
+#QV04,
+#QV05,
+#QV06 {
+    height: 78px;
+}
+
+#QV07,
+#QV08,
+#QV09,
+#QV010 {
+    height: 98px;
+}
+
+#QV011,
+#QV012,
+#QV013 {
+    height: 29px;
+}
+
+#QV014,
+#QV015,
+#QV016,
+#QV017,
+#QV018,
+#QV019 {
+    height: 80px;
+}
+
+#QV014-1,
+#QV015-1,
+#QV016-1,
+#QV017-1,
+#QV018-1,
+#QV019-1 {
+    font-size: 14px;
+    height: 20px;
+}
+
+#QV020 {
+    height: 180px;
+}
+#QV021 {
+    height: 118px;
+}
+
+#QV022 {
+    height: 108px;
+}
+
+#QV023 {
+    height: 280px;
+}
+
+#QV024,
+#QV025,
+#QV026,
+#QV027,
+#QV028,
+#QV029 {
+    height: 88px;
+}
+
+#QV030,
+#QV031 {
+    height: 158px;
+}
+
+#QV032,
+#QV033,
+#QV034,
+#QV037,
+#QV038,
+#QV039 {
+    height: 158px;
+}
+
+#QV036,
+#QV040 {
+    height: 316px;
+}
+
+#QV040 {
+    overflow: hidden;
+}
+
+#QV040 img {
+    height: 308px;
+    width: 100%;
+}

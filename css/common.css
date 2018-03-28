@@ -1,0 +1,44 @@
+		/**
+		* set padding to make room for bootstrap menu
+		*
+		*/
+		/* body {
+			padding: 30px;
+		} */
+
+		/*
+		* need to set the height for objects
+		* set top padding to make room for selection toolbar
+		*/
+		div.qvobject, div.qvplaceholder {
+			/* padding: 30px 10px 10px 10px; */
+			height: 150px;
+			/* border: 1px solid #dde5e6; */
+		}
+		#QV07, #QV08, #QV09 {
+			/* height: 60px; */
+		}
+
+		.qcmd {
+			cursor: pointer;
+		}
+
+		#popup {
+			background-color: #7f8c8d;
+			color: #FFFFFF;
+			position: fixed;
+			padding: 10px;
+			margin: 10px;
+			bottom: 0;
+			right: 0;
+			display: none;
+			border-radius: 5px;
+		}
+
+		/*
+		 * Overrides Bootstrap navbar z-index to avoid conflict with selections bar
+		 */
+		.navbar-fixed-top {
+			position: relative;
+			z-index: 100;
+		}
